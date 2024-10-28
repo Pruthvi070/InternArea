@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import logo from "../../Assets/logo.png";
 import { Link } from "react-router-dom";
 import "./navbar.css";
-import Sidebar from "./Sidebar";
+import Sidebar from './Sidebar.jsx'
 import { signInWithPopup, signOut } from "firebase/auth";
 import { auth, provider } from "../../firebase/firebase";
 import { useSelector } from "react-redux";

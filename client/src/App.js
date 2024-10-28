@@ -1,21 +1,28 @@
-/* eslint-disable no-unused-vars */
-import React from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './Components/Navbar/Navbar.jsx'
-import Sidebar from './Components/Navbar/Sidebar.jsx';
+import './App.css';
+import Footer from './Components/Footerr/Footer';
+import Home from './Components/Home/Home';
+import Navbar from './Components/Navbar/Navbar';
+import { Routes, Route } from 'react-router-dom';
+import Register from './Components/auth/Register';
+import Intern from "./Components/Internships/Intern"
+import JobAvl from "./Components/Job/JobAvl"
 
-import Home from './Components/Home/Home.jsx';
-import Footer from './Components/Footerr/Footer.jsx';
-const App = () => {
+function App() {
+
   return (
-    <div>
+    <div className="App">
       <Navbar />
-      <Home/>
-      <Footer/>
 
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/register' element={<Register />} />
+        <Route path='/internship' element={<Intern />} />
+        <Route path='/Jobs' element={<JobAvl />} />
+
+      </Routes>
+      <Footer />
     </div>
-  )
+  );
 }
 
-export default App
-
+export default App;
