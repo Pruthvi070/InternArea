@@ -1,13 +1,13 @@
 let InterShipData = [
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Mumbai",
-        Duration: "6 months",
-        category: "Big Brands",
-        aboutCompany: ` 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Mumbai",
+                Duration: "6 months",
+                category: "Big Brands",
+                aboutCompany: ` 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -20,7 +20,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -33,32 +33,32 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Mumbai",
-        Duration: "6 months",
-        category: "Big Brands",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Mumbai",
+                Duration: "6 months",
+                category: "Big Brands",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -71,7 +71,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -84,32 +84,32 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Mumbai",
-        Duration: "6 months",
-        category: "Big Brands",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Mumbai",
+                Duration: "6 months",
+                category: "Big Brands",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -122,7 +122,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -135,32 +135,32 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately",
-    },
+                stipend: "2000-3000",
+                StartDate: "Immediately",
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Mumbai",
-        Duration: "6 months",
-        category: "Big Brands",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Mumbai",
+                Duration: "6 months",
+                category: "Big Brands",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -173,7 +173,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -186,35 +186,35 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Mumbai",
-        Duration: "6 months",
-        category: "Big Brands",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Mumbai",
+                Duration: "6 months",
+                category: "Big Brands",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -227,7 +227,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -240,34 +240,34 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    // work From home
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Pune",
-        Duration: "6 months",
-        category: "Work From Home",
-        aboutCompany: `"Instagram page 
+        },
+        // work From home
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Pune",
+                Duration: "6 months",
+                category: "Work From Home",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -280,7 +280,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -293,34 +293,34 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Pune",
-        Duration: "6 months",
-        category: "Work From Home",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Pune",
+                Duration: "6 months",
+                category: "Work From Home",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -333,7 +333,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -346,33 +346,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Pune",
-        Duration: "6 months",
-        category: "Work From Home",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Pune",
+                Duration: "6 months",
+                category: "Work From Home",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -385,7 +385,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -398,33 +398,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Pune",
-        Duration: "6 months",
-        category: "Work From Home",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Pune",
+                Duration: "6 months",
+                category: "Work From Home",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -437,7 +437,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -450,33 +450,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Pune",
-        Duration: "6 months",
-        category: "Work From Home",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Pune",
+                Duration: "6 months",
+                category: "Work From Home",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -489,7 +489,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -502,34 +502,34 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend strupart-tcture: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    // Part-time
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Banaras",
-        Duration: "6 months",
-        category: "Part-time",
-        aboutCompany: `"Instagram page 
+        },
+        // Part-time
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Banaras",
+                Duration: "6 months",
+                category: "Part-time",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -542,7 +542,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -555,32 +555,32 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Banaras",
-        Duration: "6 months",
-        category: "Part-time",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Banaras",
+                Duration: "6 months",
+                category: "Part-time",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -593,7 +593,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -606,33 +606,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Banaras",
-        Duration: "6 months",
-        category: "Part-time",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Banaras",
+                Duration: "6 months",
+                category: "Part-time",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -645,7 +645,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -658,33 +658,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Banaras",
-        Duration: "6 months",
-        category: "Part-time",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Banaras",
+                Duration: "6 months",
+                category: "Part-time",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -697,7 +697,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -710,33 +710,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Banaras",
-        Duration: "6 months",
-        category: "Part-time",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Banaras",
+                Duration: "6 months",
+                category: "Part-time",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -749,7 +749,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -762,34 +762,34 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
+        },
 
-    // MBA
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,kashmir",
-        Duration: "6 months",
-        category: "MBA",
-        aboutCompany: `"Instagram page 
+        // MBA
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,kashmir",
+                Duration: "6 months",
+                category: "MBA",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -802,7 +802,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -815,30 +815,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,kashmir",
-        Duration: "6 months",
-        category: "MBA",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,kashmir",
+                Duration: "6 months",
+                category: "MBA",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -851,7 +851,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -864,30 +864,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,kashmir",
-        Duration: "6 months",
-        category: "MBA",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,kashmir",
+                Duration: "6 months",
+                category: "MBA",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -900,7 +900,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -913,30 +913,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,kashmir",
-        Duration: "6 months",
-        category: "MBA",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,kashmir",
+                Duration: "6 months",
+                category: "MBA",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -949,7 +949,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -962,30 +962,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,kashmir",
-        Duration: "6 months",
-        category: "MBA",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,kashmir",
+                Duration: "6 months",
+                category: "MBA",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -998,7 +998,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1011,32 +1011,32 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
-    // Engineering
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Gujarat",
-        Duration: "6 months",
-        category: "Engineering",
-        aboutCompany: `"Instagram page 
+        // Engineering
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Gujarat",
+                Duration: "6 months",
+                category: "Engineering",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1049,7 +1049,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1062,33 +1062,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Gujarat",
-        Duration: "6 months",
-        category: "Engineering",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Gujarat",
+                Duration: "6 months",
+                category: "Engineering",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1101,7 +1101,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1114,33 +1114,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Gujarat",
-        Duration: "6 months",
-        category: "Engineering",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Gujarat",
+                Duration: "6 months",
+                category: "Engineering",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1153,7 +1153,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1166,33 +1166,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Gujarat",
-        Duration: "6 months",
-        category: "Engineering",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Gujarat",
+                Duration: "6 months",
+                category: "Engineering",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1205,7 +1205,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1218,33 +1218,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Gujarat",
-        Duration: "6 months",
-        category: "Engineering",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Gujarat",
+                Duration: "6 months",
+                category: "Engineering",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1257,7 +1257,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1270,35 +1270,35 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
+                numberOfopning: "3",
 
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
 
-    },
+        },
 
-    // Media
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaypur",
-        Duration: "6 months",
-        category: "media",
-        aboutCompany: `"Instagram page 
+        // Media
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaypur",
+                Duration: "6 months",
+                category: "media",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1311,7 +1311,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1324,31 +1324,31 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaypur",
-        Duration: "6 months",
-        category: "media",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaypur",
+                Duration: "6 months",
+                category: "media",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1361,7 +1361,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1374,31 +1374,31 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaypur",
-        Duration: "6 months",
-        category: "media",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaypur",
+                Duration: "6 months",
+                category: "media",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1411,7 +1411,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1424,31 +1424,31 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaypur",
-        Duration: "6 months",
-        category: "media",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaypur",
+                Duration: "6 months",
+                category: "media",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1461,7 +1461,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1474,31 +1474,31 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaypur",
-        Duration: "6 months",
-        category: "media",
-        aboutCompany: `"Instagram page 
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaypur",
+                Duration: "6 months",
+                category: "media",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1511,7 +1511,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1524,33 +1524,33 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
 
-    },
-    // Design
+        },
+        // Design
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Lucknow",
-        Duration: "6 months",
-        category: "Design",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Lucknow",
+                Duration: "6 months",
+                category: "Design",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1563,7 +1563,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1576,30 +1576,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Lucknow",
-        Duration: "6 months",
-        category: "Design",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Lucknow",
+                Duration: "6 months",
+                category: "Design",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1612,7 +1612,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1625,30 +1625,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Lucknow",
-        Duration: "6 months",
-        category: "Design",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Lucknow",
+                Duration: "6 months",
+                category: "Design",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1661,7 +1661,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1674,30 +1674,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Lucknow",
-        Duration: "6 months",
-        category: "Design",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Lucknow",
+                Duration: "6 months",
+                category: "Design",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1710,7 +1710,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1723,30 +1723,30 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Lucknow",
-        Duration: "6 months",
-        category: "Design",
-        aboutCompany: `"Instagram page 
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Lucknow",
+                Duration: "6 months",
+                category: "Design",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1759,7 +1759,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1772,32 +1772,32 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
-    // Data Science
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
+        // Data Science
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaunpur",
-        Duration: "6 months",
-        category: "Data Science",
-        aboutCompany: `Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaunpur",
+                Duration: "6 months",
+                category: "Data Science",
+                aboutCompany: `Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube 
 
@@ -1810,7 +1810,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 `,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1823,31 +1823,31 @@ If you're passionate about creating jaw-dropping content, have a keen eye for fa
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaunpur",
-        Duration: "6 months",
-        category: "Data Science",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaunpur",
+                Duration: "6 months",
+                category: "Data Science",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1860,7 +1860,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1873,31 +1873,31 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaunpur",
-        Duration: "6 months",
-        category: "Data Science",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaunpur",
+                Duration: "6 months",
+                category: "Data Science",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1910,7 +1910,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1923,31 +1923,31 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaunpur",
-        Duration: "6 months",
-        category: "Data Science",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaunpur",
+                Duration: "6 months",
+                category: "Data Science",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -1960,7 +1960,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -1973,31 +1973,31 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
-    {
-        title: "Internship Title",
-        company: "ankitOrg Ltd.",
-        location: "India,Jaunpur",
-        Duration: "6 months",
-        category: "Data Science",
-        aboutCompany: `"Instagram page 
+        {
+                title: "Internship Title",
+                company: "ankitOrg Ltd.",
+                location: "India,Jaunpur",
+                Duration: "6 months",
+                category: "Data Science",
+                aboutCompany: `"Instagram page 
 We are India's 1st online luxury content platform where we showcase everything luxurious and unique on various platforms like YouTube, Instagram, etc. We do marketing and professional shoots for various industries like real estate, travel, food, lifestyle, bikes, cars, fashion, events & much more.",`,
-        aboutInternship: `Selected intern's day-to-day responsibilities include:
+                aboutInternship: `Selected intern's day-to-day responsibilities include:
 
 1. Create engaging and visually stunning content for our social media platforms, including Instagram, TikTok, and YouTube
 2. Collaborate with our marketing team to develop innovative and unique content ideas that align with our brand identity
@@ -2010,7 +2010,7 @@ We are India's 1st online luxury content platform where we showcase everything l
 If you're passionate about creating jaw-dropping content, have a keen eye for fashion, and want to be part of a dynamic team in the urban fashion industry, then this internship is perfect for you! Join Urban NXT and make your mark as a Content Creator (Influencer) intern. Apply now and let your creativity shine!
 Earn certifications in these skills
 Learn Business Communication`,
-        Whocanapply: `Only those candidates can apply who:
+                Whocanapply: `Only those candidates can apply who:
 
 1. are available for full time (in-office) internship
 
@@ -2023,23 +2023,23 @@ Learn Business Communication`,
 5. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.`,
-        perks: [
-            "Certificate",
-            "Letter of recommendation",
-            "Flexible work hours",
-            "Informal dress code",
-            "Free snacks & beverages",
-            "Job offer"
-        ],
-        AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
+                perks: [
+                        "Certificate",
+                        "Letter of recommendation",
+                        "Flexible work hours",
+                        "Informal dress code",
+                        "Free snacks & beverages",
+                        "Job offer"
+                ],
+                AdditionalInfo: `Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of Rs. 100000 to 300000 /year
 
 Stipend structure: This is a performance-based internship. In addition to the minimum-assured stipend, you will also be paid a performance-linked incentive (10% of revenue generated).`,
-        numberOfopning: "3",
-        stipend: "2000-3000",
-        StartDate: "Immediately"
-    },
+                numberOfopning: "3",
+                stipend: "2000-3000",
+                StartDate: "Immediately"
+        },
 
 
 
 ]
-module.exports=InterShipData
+module.exports = InterShipData
