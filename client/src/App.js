@@ -19,7 +19,10 @@ import ViewAllApplication from "./Admin/ViewAllApplication"
 import Postinternships from './Admin/Postinternships';
 import DeatilApplication from './Applications/DeatilApplication';
 import UserApplicatiom from './profile/UserApplicatiom';
-import UserapplicationDetail from "./Applications/DeatilApplicationUser"
+import UserapplicationDetail from "./Applications/DeatilApplicationUser" 
+import Chatbot from './Componets/chatbot/chatbot'; 
+
+
 function App() {
   const user=useSelector(selectUser);
   const dispatch=useDispatch();
