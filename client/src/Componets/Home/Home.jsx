@@ -6,8 +6,6 @@ import fouth from "../../Assets/fourthslide.webp";
 import "./home.css";
 import Job from "./Job";
 
-
-
 import axios from "axios";
 import { Link } from "react-router-dom";
 
@@ -85,10 +83,14 @@ function Home() {
 
             <div className="infoys">
                 <div className="info-intern">
-                    <div className="mt-16">
-                        <h1 className="text-center font-bold">
-                            Latest internships on Intern Area
-                        </h1>
+                    <div class="flex items-center justify-center w-full ">
+                        <div class="bg-gradient-to-r from-blue-500 to-purple-500 text-center rounded-lg p-10 w-full max-w-4xl">
+                            <h1 class="text-white text-4xl font-bold mb-4">Latest internships on Intern Area</h1>
+                            <div class="flex items-center justify-center">
+                                <div class="h-1 w-16 bg-yellow-500 mb-2"></div>
+                            </div>
+
+                        </div>
                     </div>
                     <div className="categories flex flex-wrap mt-14">
                         <p>POPULAR CATEGORIES :</p>
@@ -273,8 +275,6 @@ function Home() {
                     </a>
                 </div>
             </div>
-
-
 
         </>
     );

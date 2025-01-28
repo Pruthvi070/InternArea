@@ -1,226 +1,232 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-img {
-  width: 120px;
-}
-nav {
-  width: 100%;
-  background-color: #fff;
-  box-shadow: 0px 0px 5px -2px black;
-  overflow: hidden;
-}
-ul {
+/* navbar.css */
+.nav1 {
+  background-color: #ffffff; /* Background for navbar */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add slight shadow */
   display: flex;
-}
-.elem {
-  display: flex;
-  margin-left: 34px;
+  align-items: center;
   justify-content: space-between;
-}
-ul p {
-  margin: 30px;
-  color: black;
-}
-.search {
-  position: relative;
-  left: 30%; /* Adjusted to balance wider navbar */
-  margin-top: 15px;
-}
-.search i {
-  font-size: 20px;
-  font-weight: 200;
-}
-.search input {
-  margin-left: 10px;
-  font-size: 15px;
-  padding: 12px 2px;
-  width: 200px; /* Increased the width for better usability */
-  color: black;
-  border: none;
-  outline: none;
-}
-.auth {
-  position: relative;
-  left: 25%; /* Adjusted for alignment in wider navbar */
-  margin-top: 1.5rem;
-  display: flex;
-  justify-content: space-around;
-}
-.btn1 {
-  color: #078edd;
-  outline: #078edd 2px solid;
-  border: none;
-  width: 70px; /* Adjusted for consistency */
-  height: 30px;
-  font-size: 16px;
-  border-radius: 2px;
-}
-.btn2 {
-  color: white;
-  outline: #078edd 2px solid;
-  background-color: #078edd;
-  border: none;
-  width: 80px; /* Adjusted for consistency */
-  height: 30px;
-  font-size: 16px;
-  border-radius: 2px;
-  margin-left: 10px;
-}
-.hire {
-  position: relative;
-  left: 28%;
-  justify-content: center;
-  margin-top: 20px;
-  height: 30px;
-  font-weight: 500;
-  display: flex;
-}
-.admin {
-  position: relative;
-  left: 35%;
-  margin-top: 18px;
-}
-.admin button {
-  color: white;
-  outline: #078edd 2px solid;
-  background-color: #078edd;
-  border: none;
-  width: 80px;
-  height: 30px;
-  font-size: 16px;
-  border-radius: 2px;
-}
-#bt {
-  color: white;
-  outline: #078edd 2px solid;
-  background-color: #078edd;
-  border: none;
-  width: 80px;
-  margin-left: 50rem; /* Adjusted to keep button aligned */
-  height: 30px;
-  font-size: 16px;
-  margin-top: 18px;
-  border-radius: 2px;
-}
-@media screen and (max-width: 768px) {
-  nav {
-    display: none;
-  }
+  padding: 10px 20px; /* Space around the navbar */
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
-/* Rest of your code (dropdowns, profile styling, etc.) remains unchanged */
-* {
+.nav1 ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
   margin: 0;
   padding: 0;
-}
-img {
-  width: 120px;
-}
-nav {
   width: 100%;
-  background-color: #fff;
-  box-shadow: 0px 0px 5px -2px black;
-  overflow: hidden;
-}
-ul {
-  display: flex;
-}
-.elem {
-  display: flex;
-  margin-left: 34px;
-  justify-content: space-between;
-}
-ul p {
-  margin: 30px;
-  color: black;
-}
-.search {
-  position: relative;
-  left: 30%; /* Adjusted to balance wider navbar */
-  margin-top: 15px;
-}
-.search i {
-  font-size: 20px;
-  font-weight: 200;
-}
-.search input {
-  margin-left: 10px;
-  font-size: 15px;
-  padding: 12px 2px;
-  width: 200px; /* Increased the width for better usability */
-  color: black;
-  border: none;
-  outline: none;
-}
-.auth {
-  position: relative;
-  left: 25%; /* Adjusted for alignment in wider navbar */
-  margin-top: 1.5rem;
-  display: flex;
-  justify-content: space-around;
-}
-.btn1 {
-  color: #078edd;
-  outline: #078edd 2px solid;
-  border: none;
-  width: 70px; /* Adjusted for consistency */
-  height: 30px;
-  font-size: 16px;
-  border-radius: 2px;
-}
-.btn2 {
-  color: white;
-  outline: #078edd 2px solid;
-  background-color: #078edd;
-  border: none;
-  width: 80px; /* Adjusted for consistency */
-  height: 30px;
-  font-size: 16px;
-  border-radius: 2px;
-  margin-left: 10px;
-}
-.hire {
-  position: relative;
-  left: 28%;
-  justify-content: center;
-  margin-top: 20px;
-  height: 30px;
-  font-weight: 500;
-  display: flex;
-}
-.admin {
-  position: relative;
-  left: 35%;
-  margin-top: 18px;
-}
-.admin button {
-  color: white;
-  outline: #078edd 2px solid;
-  background-color: #078edd;
-  border: none;
-  width: 80px;
-  height: 30px;
-  font-size: 16px;
-  border-radius: 2px;
-}
-#bt {
-  color: white;
-  outline: #078edd 2px solid;
-  background-color: #078edd;
-  border: none;
-  width: 80px;
-  margin-left: 50rem; /* Adjusted to keep button aligned */
-  height: 30px;
-  font-size: 16px;
-  margin-top: 18px;
-  border-radius: 2px;
-}
-@media screen and (max-width: 768px) {
-  nav {
-    display: none;
-  }
 }
 
-/* Rest of your code (dropdowns, profile styling, etc.) remains unchanged */
+.nav1 .img {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.nav1 .img img {
+  height: 40px; /* Logo height */
+}
+
+.nav1 .elem {
+  display: flex;
+  gap: 20px; /* Space between links */
+  margin-right: auto; /* Push the next elements to the right */
+}
+
+.nav1 .elem .dropdown {
+  position: relative;
+}
+
+.nav1 .elem .dropdown a {
+  text-decoration: none;
+  color: #333333;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.nav1 .elem .dropdown a:hover {
+  color: #007bff; /* Highlight effect */
+}
+
+.nav1 .search {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-right: 20px; /* Space from profile */
+}
+
+.nav1 .search i {
+  font-size: 18px;
+  color: #333;
+}
+
+.nav1 .search input {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-size: 14px;
+  outline: none;
+  width: 200px;
+}
+
+.nav1 .Profile {
+  display: flex;
+  align-items: center;
+  margin-right: 20px; /* Space from buttons */
+  position: relative;
+}
+
+.nav1 .Profile img {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.nav1 .bt-log {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.nav1 .bt-log:hover {
+  background-color: #0056b3;
+}
+
+.nav1 .auth {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-right: 20px;
+}
+
+.nav1 .auth .btn1 {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.nav1 .auth .btn1:hover {
+  background-color: #0056b3;
+}
+
+.nav1 .auth .btn2 {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.nav1 .auth .btn2 a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav1 .auth .btn2:hover {
+  background-color: #218838;
+}
+
+.nav1 .hire {
+  font-size: 16px;
+  color: #333;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.nav1 .admin button {
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.nav1 .admin button:hover {
+  background-color: #e68900;
+}
+
+/* Dropdown Styling */
+.profile-dropdown-1,
+.profile-dropdown-2 {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 50;
+}
+
+.profile-dropdown-1 .left-section,
+.profile-dropdown-2 .left-section,
+.profile-dropdown-1 .right-section,
+.profile-dropdown-2 .right-section {
+  padding: 10px;
+}
+
+.line {
+  height: 1px;
+  width: 100%;
+  margin: 10px 0;
+}
+
+/* Login Modal */
+.login {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.login #cross {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.login #state {
+  font-size: 16px;
+  color: #333;
+}
+
+.login .google-btn {
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.login .google-btn:hover {
+  background-color: #3367d6;
+}

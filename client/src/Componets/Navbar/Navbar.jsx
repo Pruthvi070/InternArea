@@ -100,7 +100,7 @@ function Navbar() {
                                     <Link to="/register">Register</Link>
                                 </button>
                             </div>
-                            <div className="flex mt-7 hire">Hire Talent</div>
+
                             <div className="admin">
                                 <Link to="/adminLogin">
                                     <button>Admin</button>
