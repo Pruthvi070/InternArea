@@ -6,6 +6,8 @@ import fouth from "../../Assets/fourthslide.webp";
 import "./home.css";
 import Job from "./Job";
 
+
+
 import axios from "axios";
 import { Link } from "react-router-dom";
 
@@ -89,76 +91,67 @@ function Home() {
                             <div class="flex items-center justify-center">
                                 <div class="h-1 w-16 bg-yellow-500 mb-2"></div>
                             </div>
-
+                            <p class="text-yellow-300 text-lg font-semibold">
+                                Trending on InternArea <i class="fas fa-fire"></i>
+                            </p>
                         </div>
                     </div>
-                    <div className="categories flex flex-wrap mt-14">
-                        <p>POPULAR CATEGORIES :</p>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "Big Brands"
-                                ? "bg-blue-500 text-white"
-                                : ""
-                                }`}
-                            onClick={() => setSelectedCategory("Big Brands")}
-                        >
-                            Big Brands
-                        </span>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "Work From Home"
-                                ? "bg-blue-500 text-white"
-                                : ""
-                                }`}
-                            onClick={() => setSelectedCategory("Work From Home")}
-                        >
-                            Work From Home
-                        </span>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "Part-time" ? "bg-blue-500 text-white" : ""
-                                }`}
-                            onClick={() => setSelectedCategory("Part-time")}
-                        >
-                            Part-time
-                        </span>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "MBA" ? "bg-blue-500 text-white" : ""
-                                }`}
-                            onClick={() => setSelectedCategory("MBA")}
-                        >
-                            MBA
-                        </span>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "Engineering"
-                                ? "bg-blue-500 text-white"
-                                : ""
-                                }`}
-                            onClick={() => setSelectedCategory("Engineering")}
-                        >
-                            Engineering
-                        </span>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "media" ? "bg-blue-500 text-white" : ""
-                                }`}
-                            onClick={() => setSelectedCategory("media")}
-                        >
-                            Media
-                        </span>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "Design" ? "bg-blue-500 text-white" : ""
-                                }`}
-                            onClick={() => setSelectedCategory("Design")}
-                        >
-                            Design
-                        </span>
-                        <span
-                            className={`category mr-4 ml-6 ${selectedCategory === "Data Science"
-                                ? "bg-blue-500 text-white"
-                                : ""
-                                }`}
-                            onClick={() => setSelectedCategory("Data Science")}
-                        >
-                            Data Science
-                        </span>
+
+                    <div className="categories flex flex-wrap mt-14 items-center">
+                        <p className="font-semibold mr-4">POPULAR CATEGORIES:</p>
+                        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 ml-6">
+                            <span
+                                className={`category ${selectedCategory === "Big Brands" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("Big Brands")}
+                            >
+                                Big Brands
+                            </span>
+                            <span
+                                className={`category ${selectedCategory === "Work From Home" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("Work From Home")}
+                            >
+                                Work From Home
+                            </span>
+                            <span
+                                className={`category ${selectedCategory === "Part-time" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("Part-time")}
+                            >
+                                Part-time
+                            </span>
+                            <span
+                                className={`category ${selectedCategory === "MBA" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("MBA")}
+                            >
+                                MBA
+                            </span>
+                            <span
+                                className={`category ${selectedCategory === "Engineering" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("Engineering")}
+                            >
+                                Engineering
+                            </span>
+                            <span
+                                className={`category ${selectedCategory === "media" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("media")}
+                            >
+                                Media
+                            </span>
+                            <span
+                                className={`category ${selectedCategory === "Design" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("Design")}
+                            >
+                                Design
+                            </span>
+                            <span
+                                className={`category ${selectedCategory === "Data Science" ? "bg-blue-500 text-white" : ""}`}
+                                onClick={() => setSelectedCategory("Data Science")}
+                            >
+                                Data Science
+                            </span>
+                        </div>
                     </div>
+
+
                 </div>
                 <div className="internships" id="container2">
                     <div className="internShip-Info flex">
@@ -208,6 +201,7 @@ function Home() {
                     </button>
                 </div>
             </div>
+
             <Job />
 
             <hr />
@@ -275,6 +269,8 @@ function Home() {
                     </a>
                 </div>
             </div>
+
+
 
         </>
     );
