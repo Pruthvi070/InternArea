@@ -55,11 +55,15 @@ function Home() {
     };
     return (
         <>
-            <h1 className="text-center text-3xl font-bold">
-                Make your dream career a reality
-            </h1>
-            <p className="text-center text-lg font-bold">Trending on InternArea 🔥</p>
-
+            <div className="bg-gradient-to-r from-blue-600 to-purple-600 py-12 px-4 sm:px-6 lg:px-8 rounded-lg shadow-lg">
+                <h1 className="text-center text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4 tracking-tight">
+                    Make your dream career a reality
+                </h1>
+                <div className="w-16 h-1 bg-yellow-400 mx-auto mb-4"></div>
+                <p className="text-center text-lg sm:text-xl font-bold text-yellow-300 animate-pulse">
+                    Trending on InternArea 🔥
+                </p>
+            </div>
             <div className="imgs flex justify-center" id="container">
                 <div className="slide flex mt-10 " id="content">
                     <img className="slide_Img ml-4" src={first} alt="" />
@@ -90,8 +94,8 @@ function Home() {
                         <p>POPULAR CATEGORIES :</p>
                         <span
                             className={`category mr-4 ml-6 ${selectedCategory === "Big Brands"
-                                    ? "bg-blue-500 text-white"
-                                    : ""
+                                ? "bg-blue-500 text-white"
+                                : ""
                                 }`}
                             onClick={() => setSelectedCategory("Big Brands")}
                         >
@@ -99,8 +103,8 @@ function Home() {
                         </span>
                         <span
                             className={`category mr-4 ml-6 ${selectedCategory === "Work From Home"
-                                    ? "bg-blue-500 text-white"
-                                    : ""
+                                ? "bg-blue-500 text-white"
+                                : ""
                                 }`}
                             onClick={() => setSelectedCategory("Work From Home")}
                         >
@@ -122,8 +126,8 @@ function Home() {
                         </span>
                         <span
                             className={`category mr-4 ml-6 ${selectedCategory === "Engineering"
-                                    ? "bg-blue-500 text-white"
-                                    : ""
+                                ? "bg-blue-500 text-white"
+                                : ""
                                 }`}
                             onClick={() => setSelectedCategory("Engineering")}
                         >
@@ -145,8 +149,8 @@ function Home() {
                         </span>
                         <span
                             className={`category mr-4 ml-6 ${selectedCategory === "Data Science"
-                                    ? "bg-blue-500 text-white"
-                                    : ""
+                                ? "bg-blue-500 text-white"
+                                : ""
                                 }`}
                             onClick={() => setSelectedCategory("Data Science")}
                         >
@@ -205,39 +209,41 @@ function Home() {
             <Job />
 
             <hr />
-            <div className="analytics mt-8 flex flex-wrap justify-center items-center text-center">
-                <div className="text-block mt-5">
-                    <span className="font-bold text-6xl text-blue-600">300K+</span>
-                    <p>companies hiring</p>
+
+
+            <div className="analytics mt-8 flex flex-wrap justify-center items-center text-center mx-auto space-x-10">
+                <div className="text-block mt-5 p-6 bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 transform hover:scale-105">
+                    <span className="font-bold text-6xl text-blue-600 mx-10 transition-all duration-300 hover:text-blue-800">300K+</span>
+                    <p className="mt-2 text-lg text-gray-600">companies hiring</p>
                 </div>
-                <div className="text-block mt-5">
-                    <span className="font-bold text-6xl text-blue-600">10K+</span>
-                    <p>new openings everyday</p>
+                <div className="text-block mt-5 p-6 bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 transform hover:scale-105">
+                    <span className="font-bold text-6xl text-blue-600 mx-10 transition-all duration-300 hover:text-blue-800">10K+</span>
+                    <p className="mt-2 text-lg text-gray-600">new openings everyday</p>
                 </div>
-                <div className="text-block mt-5">
-                    <span className="font-bold text-6xl text-blue-600">21Mn+</span>
-                    <p>active students</p>
+                <div className="text-block mt-5 p-6 bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 transform hover:scale-105">
+                    <span className="font-bold text-6xl text-blue-600 mx-10 transition-all duration-300 hover:text-blue-800">21M+</span>
+                    <p className="mt-2 text-lg text-gray-600">active students</p>
                 </div>
-                <div className="text-block mt-5">
-                    <span className="font-bold text-6xl text-blue-600">600K+</span>
-                    <p>learners</p>
+                <div className="text-block mt-5 p-6 bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 transform hover:scale-105">
+                    <span className="font-bold text-6xl text-blue-600 mx-10 transition-all duration-300 hover:text-blue-800">600K+</span>
+                    <p className="mt-2 text-lg text-gray-600">learners</p>
                 </div>
             </div>
 
-            <div className="logins flex  h-32 mt-8">
-                <div className="cont">
-                    <p className="flex justify-center text-white text-xl items-center m-5 w-30">
+
+            <div className="flex flex-col items-center py-8 bg-gray-900 mt-10">
+                <div className="mb-8">
+                    <p className="text-white text-2xl font-semibold text-center">
                         Empower your career with InternArea today
                     </p>
                 </div>
-                <div className="log flex">
+                <div className="flex flex-col gap-4 w-full max-w-sm px-4">
                     <a
                         href="/register"
-                        id="buttons"
-                        class="flex items-center  bg-white h-9 justify-center mt-4 text-white rounded-lg shadow-md hover:bg-gray-100"
+                        className="flex items-center justify-center bg-white hover:bg-gray-100 text-gray-800 rounded-full py-3 px-6 transition duration-300 transform hover:scale-105 shadow-lg"
                     >
-                        <div class="px-4 py-3">
-                            <svg class="h-6 w-6" viewBox="0 0 40 40">
+                        <div className="mr-3">
+                            <svg className="h-6 w-6" viewBox="0 0 40 40">
                                 <path
                                     d="M36.3425 16.7358H35V16.6667H20V23.3333H29.4192C28.045 27.2142 24.3525 30 20 30C14.4775 30 10 25.5225 10 20C10 14.4775 14.4775 9.99999 20 9.99999C22.5492 9.99999 24.8683 10.9617 26.6342 12.5325L31.3483 7.81833C28.3717 5.04416 24.39 3.33333 20 3.33333C10.7958 3.33333 3.33335 10.7958 3.33335 20C3.33335 29.2042 10.7958 36.6667 20 36.6667C29.2042 36.6667 36.6667 29.2042 36.6667 20C36.6667 18.8825 36.5517 17.7917 36.3425 16.7358Z"
                                     fill="#FFC107"
@@ -256,15 +262,20 @@ function Home() {
                                 />
                             </svg>
                         </div>
-                        <p class="px-4 py-3 w-5/6 text-center text-sm text-gray-600 font-bold ">
-                            Sign in with Google
-                        </p>
+                        <span className="font-medium">Sign in with Google</span>
                     </a>
-                    <a to="/register">
-                        <button className="btn6 "> Register</button>
+
+                    <a
+                        href="/register"
+                        className="flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white rounded-full py-3 px-6 font-medium transition duration-300 transform hover:scale-105 shadow-lg"
+                    >
+                        Register
                     </a>
                 </div>
             </div>
+
+
+
         </>
     );
 }
